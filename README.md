@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola Ninov</h1>
-<h3 align="center">Hey there! 👋 I'm a washed-up gamer and former electrician who embarked on an exciting journey to become a developer. My goal is to leverage my unique background and skills to tackle challenges in the world of electrical excavators, cyclic production lines, and high voltage systems. I recently completed my studies in **Telerik Academy** with a focus on JavaScript and React.js.</h3>
+<h3 align="center">Hey there! 👋 I'm washed up gamer and former electrician, who decided to change his life and become a developer to organize and use his acquired skills from that to solve problems around electrical excavators, cyclic production lines and high voltage lines. I just finished my studies in Telerik Academy with JavaScript and React js. I have hobby to build smart home devices with different controllers and sensors (mostly arduino and raspberry pi). I'm looking for a job as junior developer to start my career in the field of web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momzzze&label=Profile%20views&color=0e75b6&style=flat" alt="momzzze" /> </p>
 
