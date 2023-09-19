@@ -1,6 +1,5 @@
-# Welcome to My Portfolio!
-
-Hey there! 👋 I'm a washed-up gamer and former electrician who embarked on an exciting journey to become a developer. My goal is to leverage my unique background and skills to tackle challenges in the world of electrical excavators, cyclic production lines, and high voltage systems. I recently completed my studies in **Telerik Academy** with a focus on JavaScript and React.js.
+<h1 align="center">Hi 👋, I'm Nikola Ninov</h1>
+<h3 align="center">Hey there! 👋 I'm a washed-up gamer and former electrician who embarked on an exciting journey to become a developer. My goal is to leverage my unique background and skills to tackle challenges in the world of electrical excavators, cyclic production lines, and high voltage systems. I recently completed my studies in **Telerik Academy** with a focus on JavaScript and React.js.</h3>
 
 ## About Me
 
@@ -21,9 +20,6 @@ Let's connect and chat! You can find me on:
 - 
 - 🏢 **GitLab:** [My GitLab Profile](https://gitlab.com/nikola.ninov)
     I've worked in team projects on  event-calendar and forum using React.js,Node.js, Firebase and other technologies.🚀
-
-<h1 align="center">Hi 👋, I'm Nikola Ninov</h1>
-<h3 align="center">Hey there! 👋 I'm a washed-up gamer and former electrician who embarked on an exciting journey to become a developer. My goal is to leverage my unique background and skills to tackle challenges in the world of electrical excavators, cyclic production lines, and high voltage systems. I recently completed my studies in **Telerik Academy** with a focus on JavaScript and React.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momzzze&label=Profile%20views&color=0e75b6&style=flat" alt="momzzze" /> </p>
 
