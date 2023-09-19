@@ -17,7 +17,7 @@
 <a href="https://twitter.com/@niksata2100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@niksata2100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikola-ninov-78a856129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikola-ninov-78a856129" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@nikolaninov3839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikolaninov3839" height="30" width="40" /></a>
-<a href="https://discord.gg/momzzze UncleBrew 3848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="momzzze UncleBrew 3848" height="30" width="40" /></a>
+<a href="https://discord.gg/UncleBrew 3848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="UncleBrew 3848" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
