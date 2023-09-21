@@ -27,7 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momzzze&show_icons=true&locale=en" alt="momzzze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momzzze&" alt="momzzze" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momzzze&theme=highcontrast" alt="momzzze" /></p>
+
 
 ## About Me
 
