@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikola Ninov</h1>
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-<h3 align="center" style="font-family: 'Press Start 2P', cursive; color: #333;">
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #333;">
   👋 Hello there...(a whispering voice from the back of the tavern). Welcome to my code sanctuary! Grab a cup of beer pardon coffee and enjoy the symphony of commits and pull requests. Remember, bugs are just misunderstood features in disguise! <strong style="color: #ff6347;">Warning: Entering the realm of my code is like stepping into a comedy club for bugs. Expect plenty of unexpected errors, spontaneous combustion of variables, and the occasional existential crisis from our dear functions. But hey, what's coding without a little drama?</strong>
 </h3>
 
