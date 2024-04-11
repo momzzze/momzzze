@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nikola Ninov</h1>
-<h3 align="center" style="font-family: 'Arial', sans-serif; color: #333;">
-  👋 Hello there...(a whispering voice from the back of the tavern). Welcome to my code sanctuary! Grab a cup of beer pardon coffee and enjoy the symphony of commits and pull requests. Remember, bugs are just misunderstood features in disguise! <strong style="color: #ff6347;">Warning: Entering the realm of my code is like stepping into a comedy club for bugs. Expect plenty of unexpected errors, spontaneous combustion of variables, and the occasional existential crisis from our dear functions. But hey, what's coding without a little drama?</strong>
-</h3>
+<div align="center">
+  <p style="font-family: 'Arial', sans-serif; color: #333;">
+    👋 Hello there...(a whispering voice from the back of the tavern). Welcome to my code sanctuary! Grab a cup of beer pardon coffee and enjoy the symphony of commits and pull requests. Remember, bugs are just misunderstood features in disguise! 
+    <strong style="color: #ff6347;">Warning: Entering the realm of my code is like stepping into a comedy club for bugs. Expect plenty of unexpected errors, spontaneous combustion of variables, and the occasional existential crisis from our dear functions. But hey, what's coding without a little drama?</strong>
+  </p>
+  <p style="font-family: 'Arial', sans-serif; color: #333;">
+    And not least, if you're using a light theme, you either have problems with your eyes or soon you will have! 😄
+  </p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momzzze&label=Profile%20views&color=0e75b6&style=flat" alt="momzzze" /> </p>
 
